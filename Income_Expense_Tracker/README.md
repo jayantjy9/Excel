@@ -5,7 +5,7 @@ This is a simple Excel file that helps you track your Income/Expenses where you 
 
 ## Tech Stack
 
-Used Microsoft Excel, some advanced excel functions and also include Macros.
+Used Microsoft Excel, some advanced excel functions and also included Macros.
 
 
 ## Step by Step Working
@@ -24,7 +24,7 @@ The file consist of 4 Pages as mentioned Below:
 3. The same data also visible in the "Pivot Table Tab" in form of pivot tables.
 
 4. All the entries which you made will be visible in the form of interactive charts in the "Dashboard Tab".
-* This is your personalized Dashboard all the entries which you made previously will have visiual representation in this Tab.
+* This is your personalized Dashboard all the entries which you make will have visual representation in this Tab.
 * You can apply filter's as well like if you want to check entries for any specific month you can check that with the help of Date filter.
 * You can apply filters based on Description, if you want to check expenses in any of the description entry you can do that also.
 * There are 2 different views in Expenses Category: "Category-view" and "Monthly-view". You can toggle between them
