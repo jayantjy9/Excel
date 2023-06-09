@@ -1,3 +1,5 @@
+<img width="917" alt="image" src="https://github.com/jayantjy9/Excel/assets/118092998/40124c0f-9fec-481e-994a-d7b449fd1f5e">
+
 
 # Vrinda Store Annual Sales Report
 
